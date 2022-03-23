@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6019fc1b-3610-4682-bf96-8345c95cb7ec": {
+      "ProjectGuid": "6019fc1b-3610-4682-bf96-8345c95cb7ec",
+      "DisplayName": "ParquetFileViewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
