@@ -1,0 +1,12 @@
+E:\Temp\ParquetViewer-master\src\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+E:\Temp\ParquetViewer-master\src\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+E:\Temp\ParquetViewer-master\src\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.AssemblyReference.cache
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+E:\Temp\ParquetViewer-master\src\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+C:\Projects\ParquetViewer\src\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Projects\ParquetViewer\src\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
